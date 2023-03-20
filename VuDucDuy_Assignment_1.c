@@ -14,7 +14,7 @@ by space “ ” and convert to lowercase
 int main() {
     int ch, space_counter = 0;
     
-    printf("Press Ctrl + Z to stop input: \n");
+    printf(" \n");
    
     while (1) { 
         ch = getchar();

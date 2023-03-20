@@ -6,9 +6,9 @@ Description : Write a program to convert a string to uppercase using pointer
 ============================================================================
 */
 
-#include <iostream>
-#include <cstring>
-using namespace std;
+#include<stdio.h>
+
+//using namespace std;
 
 int main() {
     char str[100];
